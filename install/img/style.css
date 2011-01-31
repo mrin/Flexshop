@@ -1,0 +1,103 @@
+
+body {
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 10px;
+	background-color: #0ea5cb;
+	background-image: url('body_bg.gif');
+	background-position: top;
+	background-repeat: repeat-x;
+	font-size:8pt;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#1e505c;
+	font-weight:bold;
+}
+
+img{border:0px;}
+
+#main {
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-align: center;
+	padding: 0px;
+	width: 753px;
+	background: url('border_down.gif') bottom no-repeat;
+}
+
+#brdup {
+	background: url('border_up.gif') top no-repeat;
+	height:25px;
+}
+
+#container {
+	margin: 0px 0px 25px 0px;
+	padding:0px 10px 0px 10px;
+	background: url('body.gif') repeat-y;
+}
+
+#header{
+	width:90%;
+	padding: 0px 10px 0px 10px;
+}
+
+#logo {
+	float:left;
+	width:165;
+	height:81;
+	margin:0px;
+}
+#lng {
+	float:right;
+	margin:0px;
+	padding:10px;
+}
+
+table, td {
+	font-family:Verdana;
+	font-size:8pt;
+	color:#000000;
+}
+a {
+	text-decoration:none;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	color:#1e505c;
+	font-weight:bold;
+}
+a:hover, a:focus {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	color:#2d7b8f;
+	font-weight:bold;
+}
+
+.textwhite{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.textred {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	color:#f80000;
+	font-weight:bold;
+}
+.textgreen {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	color:#00df00;
+	font-weight:bold;
+}
+.textblack {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	color:#000000;
+	font-weight:bold;
+	padding:10px 0px 0px 0px;
+}
